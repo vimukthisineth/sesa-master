@@ -53,6 +53,10 @@ Route::get('course_content', function () {
     return view('course_content');
 });
 
+Route::get('/test', function () {
+    return view('test');
+});
+
 Route::get('question/{id}','QuestionController@show');
 
 

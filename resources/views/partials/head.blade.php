@@ -14,7 +14,6 @@
         <link rel="stylesheet" type="text/css" href="{{asset('css/jquery-ui.css')}}">
        {{-- <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">--}}
 
-
         <link rel="stylesheet" href="{{asset('css/front-end/FrontEndStyleSheet.css')}}">
 
         <!-- Theme styles START -->
@@ -104,5 +103,3 @@
 
     </head>
     @stop
-
-
